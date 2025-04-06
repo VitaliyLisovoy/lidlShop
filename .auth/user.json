@@ -1,0 +1,233 @@
+{
+  "cookies": [
+    {
+      "name": ".AspNetCore.OpenIdConnect.Nonce.CfDJ8LcPz4NpxHpJuFKYJNJcrVQRFoyyXPArkB8bRSohKOLnC9hVHelNqH3RUG8mTfKb0oOBcmd7cxbsgZcog_f4p-p_14hoBKhgF9J_WdIaAQZV2huADZ9Ah8Njhe7Bkq7BO2tdqGbfamwOGhl-Byi-3B_aIvIhFCW0tS3ShZs5o8wLm1VIn-KnKn2FjC4WmlYJj63bbkiL5IwO6dsFwliKw0u_oT0DlyoKtSeWyNYtkG1ipHYUo_napGY4Y8O4xBhtA0VftEBcA0gipHJdq8REcJU",
+      "value": "N",
+      "domain": "www.lidl.sk",
+      "path": "/signin-oidc",
+      "expires": 1743936416.428646,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": ".AspNetCore.Correlation.yUr1CBDMCCrIzk4DrbeIMTG6stS_lQ70OnKjqBAwDqI",
+      "value": "N",
+      "domain": "www.lidl.sk",
+      "path": "/signin-oidc",
+      "expires": 1743936416.428716,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "PQ3HNKP4bVJKvL.JNciThOmZKcOQrWLWKY7Iq9lzseg-1743935515-1.0.1.1-MK9KyRZRYfBE29m3AcYiPr54hsV_EPb30fw1mz6JD0CO8CrDyaYcHX9vN9FS5bjF7P6tD0N1NJFar_2CGL5SiVIYyWEEn6WUK6gr621EK4U",
+      "domain": ".cookielaw.org",
+      "path": "/",
+      "expires": 1743937315.328475,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "LidlID",
+      "value": "94d735c6-2e29-42d9-b492-3ef4a5f4a047",
+      "domain": "www.lidl.sk",
+      "path": "/",
+      "expires": 1775495515.610576,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "aXIAj.hpahHi31dhYLa8kFBwTFwO_eik6UChX_W9fiY-1743935515-1.0.1.1-6zCZICs8jY6eHj1xZ0dNGLQomEz4pR.aY_Bf1Xah.WX6R2sHna1meXOumTJxwLEgIH7.n.lDHoGDpY7r3IsWVu3tRv8H2O0u8c5OxAjwICk",
+      "domain": ".heureka.sk",
+      "path": "/",
+      "expires": 1743937315.659919,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OptanonAlertBoxClosed",
+      "value": "2025-04-06T10:31:55.846Z",
+      "domain": ".lidl.sk",
+      "path": "/",
+      "expires": 1775471515,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "slovakiaecommerceclient-SK-language",
+      "value": "sk-SK",
+      "domain": "accounts.lidl.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": ".AspNetCore.Antiforgery.pIV2Ht94CKA",
+      "value": "CfDJ8NSCj-qEgx1IvFpz5eccBrkJfSCZ55Trqrg04SGFIG03bZtxEwWE6gc795aZ4uRuDhpJIcPSFcc3f8iEGALvI-Hoxqi8ofegcjIos5cqDSzD-2zOrDz7RyHg6u7Nmn-QkxXk2Yp0l7O5zmQA5-9d_m0",
+      "domain": "accounts.lidl.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lidl-sso-browser-mark",
+      "value": "17237519-651d-4ec8-8ba0-c98bd7c33674",
+      "domain": "accounts.lidl.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "idsrv.session",
+      "value": "04313E763AFB5C238188743FAE40A551",
+      "domain": "accounts.lidl.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": ".AspNetCore.Identity.Application",
+      "value": "CfDJ8NSCj-qEgx1IvFpz5eccBrkvPP-CtrS449JpRFDQvycjkFHHhTip5Axc9u_-9LvgBv6zQuuM6g1vDQOKWCuY_QaRu0Zhgj5H4UdyLwDBaF9qo4OjVeljwWN8mhNYPCCwVegXT7CUXEDA0BnGk3xNp4YaLAMTIw4qw5jL5I5uesppgdhjtPRfBhVCV8gVmwNa2WdEGsdi3eY6r1POuCiYPSq9YO62wMnOjj95-K_rzxESh8mtDVUFBujPGpBb31I3_UYnlUdWvXpEsLGlrWacH1SbY3AnEe5VoQFvGZRKTVexxBxvOiu4JOx4nM9sIbxL-yramKAG6ksJ4KHv4grN6qHkXnyuImllaRZh1Z3qEPLISR0tLUte06VyNdcFAsmYREfs8DUuPE0OmchEArksbo9-yNiPU9HG5Nod0Q03-Yfo1ScPe60yk6QYY6x4a-dj0M-KKhJGXtyZbEYROQbEVCskEZjW24xHaORDdjjOibsxjIidNXt-_X9_lrCNrQULvhl04RBAve9azxfdASoHszM-YqMJcYHQ7oq0dwvXOzTLmE8wl55qQa8GxdrqrFBzI5rqeRZV-dDb5ykFezTSUdj3eD7UnXlSZul19kTc2vkfmDjgx1o1JhsZ6HlclNJ_INtP8WXULT_JFReBe0ERgluXjiPrCHsFSZ_sMhYbhRinOwO8VZAGNerO1PwQZXmrGXDtHhHOMVXTkDS2Bve9BfE_vKv3_mYJNve1xGKO0Ly3QnhObNWZa2d27akoQCHv7s_wbpl1Opp_VNg14ll9vuplAlAR10SSNFtBQk-1NTvpSbSBRhUkBZ9QpzyUCM15C_L2QhJNNATI6eQaYv5RhvMWIiEQsGXebf6P4eCwn9gDQF_4-6HnwFPMILteTMs0dGavU9DIxidQ6HNP0AFrBLCEo-56WCDdGgD9YSwUMfQ_zjtFLudD83nDy4xPswntCUE6xKgIvq5xDj87OKiqOH1qHfSEdv33BFITcZlW18lGmhtQdebq1nKdM9KQMuAN_RqW0FIH7IfIRjXoree9-Qua6LIptlSgTKDBP96dzvTb6l6O5KIcNagVtESLkdQ8QW3014JW2uQRqa0WSu5j1yA8DhuWDhxfd47g2twX7SiyzYO9kQQRwHnAyn_GEL5eetGo5hIssZqqeshsd4vilFZvTnhjhMmlx3kEhClR99xVnQ6uIvPb5nJoA-bCL4HgA7xgiMUu8fdz9psgzfKYLuHsTjuB2Ra29gJ0tZb552MC791zeocVyzTHebZAmhiFYSg-ii_c0ROG-kDmzGRWZaewe8W2QpsGiaTfGyuhD9I4VE3d4yf0FcgwxVPkltwAVR_aDpRVZPeWpRUxlcZ3OZY58Z4F2FV-I7k6AKW63MAJhpnrs-nmz33XEa7S6keao5hCKIG23rYsypEm8aqer_H9WYEcv7Dep2epGmIVdVE3e0kEc-zNsS2eZrkFYuFLZOov7yrAsNCprD4b6shP_uCuIdRYzSYpIuDj4TyczrcUVl1zXXzjwfZ8p2irMqBInwOpk3JVYCz9qkDUbmFt-BOGqdtpiDtGrYiyCUo59JqsBqhNzE7QMntE4ggquIczwUVE7o5GZjJOMir-TX25YnRsLPhIgubeDRjoSMG_DJuzZFsukpPYvGw6LnyPaDBKU_LRtc-3ziLgRPDyw0plHwI2dd5bhXn-Y_bVxZtvTvkvTDrVRT-JOPGLp9EJb8SenH7aCoOrfzAdWcSwMdFlSPeDw-W-Pg3pg4Kh9C0zWN8IUoCI0nfsSMfc8iHDnVTCjp08pu3jXjKRulYkhxZ5yMlVjdD1_sqYii75c2CM4AFAKutyNhUHTakmK_-trfPqE_OBTBSi_7nR4x1C85hHM4L0mMfWWXwEV2vhmZir-rfsqjjLpV8R6TUGLJptDaJA4bL-6J-v1QC3nhnd9ye4NQM4PW48snbdbUzRD5hF_k8if1JKceN1Iy5zyOgQOPqfqlXZOv6f0A13E5WYShWoeMUm5kodilfIs_ufS_ZqTwhEflmamCt7bDEJ0wPliP7EABv-nyUaloQmIr-WZP-6yCk",
+      "domain": "accounts.lidl.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bm_sz",
+      "value": "4DB8B1EB113ADD80B9C959FA6471B03B~YAAQFhdlX+i91QKWAQAATDWoCht5y5nqUMVQoZWX/aRXku6/02KSxuVZHky4rwto2tVUJAdy9X+ad9h/wV1tXs7EH7AgIjvSCqkn9LOY9ye+S2QWsP9Ge9KD1Z9hlPdiwdoBB24SBGnwFVoxv6bhjeiGDztst4lV+1AfI4bdgsg/W17cj3wuVTcu/lEk3w7F1mdSMnKnodpZUPXHv+HGgE+MMAlCPg3U4/CZfOPvjPiseQj2WbdSnGTJJerLV/FpdLgtmUTjHOkndSSZKWKapFyJzOwrKO/2T2sYhg1av6V7Gx0rim0703rD+9NUR6HrPYU3aTrNbyprlFR7iU69crTB1nv7HkMDTuygGfQCEjUN3XpfOb+1Tz0DSxkd4F5YPp77UIu0sjAnKOV9DPtBW5eA~4600628~4469825",
+      "domain": ".lidl.com",
+      "path": "/",
+      "expires": 1743949916.006983,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_abck",
+      "value": "3DFDB6220B734716FE08F6A23D5E23D5~-1~YAAQ1BdlXzGLcQSWAQAAsDWoCg3KV6xy9u6uFw4xPYtwQy+TZJXrit9mPOp+cWWguaRLeZIBQUf+lhq/qILzpjedBkwJWvyyJYd4ueSXXtT4fZr3qsP+QjEOiMdmjCAnjbqCm6/u1KZjnME8RHkmVD8KFAe9z5qLnvfnTgw0hgwD1CU795641ixzC56lAhYGobWy5WbCnkj0voGDBS1tv2oY46KJQHd/p7+7sfAEqLA5bRK34Wh1Z35dxEvdanEsHCc4TI1kCCdklf9ZyLJ1INCc7d8JpetLtYOlxPUO88ZwNupmqxpWNxxjCZop3N9SG0WxtlJRkxfyej5Sm8TZZ3kgLQQ6H7vFKuBrvODvDrhARVw8iL+cv9YyGJI/v5P7HvfRbG70hmOQwtG2iTaDZ9vS8yXr6u0XVBfTCMCNHQRrWIfPYMz24wWgNoE8L1KWmd8ARHtg4XHazFKSs1FDcFX3AxCKICEZbKoD0OWKRED+q8NfZYuSoCw0Vu9bMMMbwH0O6ax9xhz9XJAw~-1~||0||~-1",
+      "domain": ".lidl.com",
+      "path": "/",
+      "expires": 1775471518.108688,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ldi-user-context",
+      "value": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IjU3NjY3Mjc3Njg5MzQxNzM5IiwiYXV0aF90aW1lIjoiMTc0MzkzNTUxNyIsImlzcyI6ImxpZGwiLCJleHAiOjE3NDM5MzczMTh9.5HogqIt8-bPtfj2YGD7V6MhI4VAZ1aMym4JAtmAvH-na3lYYRSEeTKwSQ2lxcoI0ZeVkrXAqVPYjsEjPk2A66g",
+      "domain": "www.lidl.sk",
+      "path": "/",
+      "expires": 1743937318.21284,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "authToken",
+      "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjdBQkE4MkIzRTQ4Qjg4MUI5QTg4MDU3N0ZBQUIwMTNENjIwOEYxMDNSUzI1NiIsInR5cCI6IkpXVCIsIng1dCI6ImVycUNzLVNMaUJ1YWlBVjMtcXNCUFdJSThRTSJ9.eyJuYmYiOjE3NDM5MzU1MTgsImV4cCI6MTc0MzkzNzMxOCwiaXNzIjoiaHR0cHM6Ly9hY2NvdW50cy5saWRsLmNvbSIsImF1ZCI6WyJMaWRsLkF1dGhlbnRpY2F0aW9uIiwiaHR0cHM6Ly9hY2NvdW50cy5saWRsLmNvbS9yZXNvdXJjZXMiXSwiY2xpZW50X2lkIjoiU2xvdmFraWFFY29tbWVyY2VDbGllbnQiLCJzdWIiOiI1NzY2NzI3NzY4OTM0MTczOSIsImF1dGhfdGltZSI6MTc0MzkzNTUxNywiaWRwIjoibG9jYWwiLCJsZWdhbF90ZXJtcyI6IlNLIiwic2lkIjoiMDQzMTNFNzYzQUZCNUMyMzgxODg3NDNGQUU0MEE1NTEiLCJpYXQiOjE3NDM5MzU1MTgsInNjb3BlIjpbIm9wZW5pZCIsInByb2ZpbGUiLCJMaWRsLkF1dGhlbnRpY2F0aW9uIiwib2ZmbGluZV9hY2Nlc3MiXSwiYW1yIjpbInB3ZCJdfQ.fja7u8VHlcJ31dQQVD2gh6W3h8sYp-V0mm8rK0LaYvYHXU2jxE1dsHRKDBhwkIBto3Vc4V8U6t0ZTLHfNR3vkhQA8gX-bD7s4iHyPrgow16GQcxUTRxmMQnWRoU4Wx0ud67Q3ANMBvMM-HCUBWKvLUczSY_ThbhEZrXJG03OBymNnZQiEDzXd5O306d_DLuNl-2FvgnFkcGeMHu3q73xnOIKZTD5YHa0apyZyLOW1DSBhyFaDyvXUYfPT83hpkRMVbx9OxumxkmhslXfunYY0es4-wysTantzVEfTUNtr4edJ0ZFsnvy3GPrI-VqWMR4rlcDzWO6culCYhy91Dxs9Q",
+      "domain": "www.lidl.sk",
+      "path": "/",
+      "expires": 1775471518.212875,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ldi-session-info",
+      "value": "eyJ0eXBlIjoiUkVHSVNURVJFRCJ9",
+      "domain": "www.lidl.sk",
+      "path": "/",
+      "expires": 1775471518.212931,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ldi-customertoken",
+      "value": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzc29faWQiOiI1NzY2NzI3NzY4OTM0MTczOSIsImN1c3RvbWVyX251bWJlciI6IjEyMjM5MDQ3MzIiLCJjb3VudHJ5X2NvZGUiOiJTSyIsImN1c3RvbWVyX3N0YXR1cyI6Ik5FV19DVVNUT01FUiIsImN1c3RvbWVyX2VtYWlsIjoidmdsaXNvdm95QGdtYWlsLmNvbSIsImN1c3RvbWVyX3R5cGUiOiJSRUdJU1RFUkVEIiwiaXNzIjoibGlkbCIsImV4cCI6MTc0MzkzNzMxOH0.apAbcZ9Xs3lQGBJONVwXXCuE0-3fwSmH-9puRh7ELozfQrPN-6H1TAxAuKPB8WkxFvq2p-7-lF21A1i5b83Utw",
+      "domain": "www.lidl.sk",
+      "path": "/",
+      "expires": 1775471518.212956,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tracking-info",
+      "value": "eyJjdXN0b21lclN0YXR1cyI6Ik5FV19DVVNUT01FUiIsImFjY291bnRJZCI6ImZkMDIzZWMwLTI4YjQtNDFhOS1iZjE1LTY1YzlkNzZmODMwNyIsImZpcnN0TmFtZSI6IiIsImN1c3RvbWVyVHlwZSI6IlJFR0lTVEVSRUQiLCJUJkNfQWNjZXB0ZWQiOiJ0cnVlIiwiTFBfQWNjb3VudCI6InRydWUifQ",
+      "domain": "www.lidl.sk",
+      "path": "/",
+      "expires": 1775471518.212988,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lidlaccountclient-sk-language",
+      "value": "sk-SK",
+      "domain": "www.lidl.sk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Sun+Apr+06+2025+12%3A31%3A58+GMT%2B0200+(Central+European+Summer+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6273f5d0-9e34-44a4-9e18-e742a34271a9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=SK%3BBL&AwaitingReconsent=false",
+      "domain": ".lidl.sk",
+      "path": "/",
+      "expires": 1775471518,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lidl_locale",
+      "value": "sk-SK",
+      "domain": "www.lidl.sk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.lidl.sk",
+      "localStorage": [
+        {
+          "name": "kameleoonLegalConsent",
+          "value": "{\"value\":{\"AB_TESTING\":false,\"PERSONALIZATION\":false},\"expirationDate\":1775471518655}"
+        },
+        {
+          "name": "puuidv",
+          "value": "94d735c6-2e29-42d9-b492-3ef4a5f4a047"
+        },
+        {
+          "name": "userConsentGivenFirstTime_6273f5d0-9e34-44a4-9e18-e742a34271a9",
+          "value": "true"
+        }
+      ]
+    }
+  ]
+}

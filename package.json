@@ -7,8 +7,11 @@
   "author": "",
   "license": "ISC",
   "description": "",
+  "type": "module",
   "devDependencies": {
-    "@playwright/test": "^1.51.1",
     "@types/node": "^22.13.11"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.51.1"
   }
 }
