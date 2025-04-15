@@ -1,4 +1,5 @@
 import { test, expect } from "@playwright/test";
+import { toPrice, toDiscount } from "../utils";
 
 export class DiscountPage {
   constructor(page) {
@@ -60,9 +61,7 @@ export class DiscountPage {
       products.map(async (product) => {
         await product.scrollIntoViewIfNeeded();
         const priceText = await product.locator(this.discountPrice).innerText();
-        const price = parseFloat(
-          priceText.replace(",", ".").replace(/[^\d.]/g, "")
-        );
+        const price = toPrice(priceText);
         return price;
       })
     );
@@ -105,9 +104,7 @@ export class DiscountPage {
         const discountText = await product
           .locator(this.discountValue)
           .innerText();
-        const price = parseFloat(
-          discountText.replace("-", "").replace("%", "")
-        );
+        const price = toDiscount(discountText);
         return price;
       })
     );
@@ -133,15 +130,9 @@ export class DiscountPage {
           .locator(this.discountValue)
           .innerText();
         const priceText = await product.locator(this.discountPrice).innerText();
-        const fullPrice = parseFloat(
-          fullPriceText.replace(",", ".").replace(/[^\d.]/g, "")
-        );
-        const discountPercent = parseFloat(
-          discountText.replace("-", "").replace("%", "")
-        );
-        const discountedPrice = parseFloat(
-          priceText.replace(",", ".").replace(/[^\d.]/g, "")
-        );
+        const fullPrice = toPrice(fullPriceText);
+        const discountPercent = toDiscount(discountText);
+        const discountedPrice = toPrice(priceText);
         const expectedPrice = parseFloat(
           (fullPrice * (1 - discountPercent / 100)).toFixed(2)
         );

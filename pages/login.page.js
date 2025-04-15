@@ -11,17 +11,11 @@ export class LoginPage {
       name: "Môj Lidl Plus účet",
     });
     this.loginHeading = page.locator('[id="\\31 0233509"]');
-    this.errorEmail = page
+    this.emailError = page
       .getByTestId("input-email-error-message")
       .getByRole("paragraph");
-    this.epmtyEmailError = page
-      .getByTestId("input-email-error-message")
-      .getByRole("paragraph");
-    this.emptyPasswordError = page
+    this.passwordError = page
       .getByTestId("input-password-error-message")
-      .getByRole("paragraph");
-    this.credError = page
-      .getByTestId("input-email-error-message")
       .getByRole("paragraph");
   }
   async fillInEmail(email) {
